@@ -6,6 +6,8 @@
 This Excel-based dashboard visualizes detailed freight loading activity across the Iranian railway network. It provides decision-makers with a clear picture of **how many wagons are loaded**, **what types of freight are shipped**, **from which origins and to which destinations**, and **how activity changes over time**. The dashboard integrates monthly, seasonal, and annual statistics to support performance monitoring and planning for freight logistics.
 
 ---
+![](images/Dashboard_Overview.png)
+---
 
 ### **1. General Information Panel (Top-Center)**
 
