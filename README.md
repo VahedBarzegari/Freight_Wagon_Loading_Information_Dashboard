@@ -85,7 +85,7 @@ This visualization enables quick comparison of **mine specialization** and **fre
 
 ---
 
-### **Summary Paragraph (for report or README)**
+### **Summary Paragraph**
 
 > This dashboard provides a comprehensive overview of freight wagon loading across Iran’s railway network. Using Excel-based visual analytics, it integrates time-series trends, commodity distributions, and activity indicators to monitor logistics performance. Users can filter by year, season, month, origin, and cargo type to evaluate loading volumes, efficiency, and commodity flow patterns. The dashboard helps railway managers and analysts assess operational consistency, identify high-performing mines, and detect seasonal or regional fluctuations in freight demand.
 
